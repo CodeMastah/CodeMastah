@@ -13,9 +13,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;10+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45">
   </a>
 </p>
-
 <div>
-<br/>
 With under 10years professional experience under my belt I would consider myself a skillful Software Engineer.<br/>
 My areas of expertise and my strongpoints are as follows:<br/>
 - 👍  Programming Languages: JavaScript, PHP, Python, WordPress, Java, .NET Framework<br/>
