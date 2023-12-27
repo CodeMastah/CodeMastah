@@ -14,8 +14,6 @@
   </a>
 </p>
 
-# Hello! 👋 Who am I? #
-
 <div>
 <br/>
 With under 10years professional experience under my belt I would consider myself a skillful Software Engineer.<br/>
